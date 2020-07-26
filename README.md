@@ -1,0 +1,2 @@
+# bitcoin
+Learning about bitcoin
